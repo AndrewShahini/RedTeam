@@ -1,0 +1,29 @@
+:root {
+  --yellow: rgba(255, 204, 0, 1);
+  --light-blue: rgba(50, 173, 230, 1);
+  --sand: rgba(241, 200, 142, 1);
+  --deep-ocean: rgba(53, 82, 139, 0.9);
+  --white: rgba(255, 255, 255, 1);
+  --black: rgba(0, 0, 0, 1);
+  --light-teal: rgba(163, 216, 213, 1);
+  --salmon: rgba(242, 141, 141, 1);
+  --pineapple: rgba(255, 227, 114, 1);
+  --heading-font-family: "Inter", Helvetica;
+  --heading-font-weight: 600;
+  --heading-font-size: 24px;
+  --heading-letter-spacing: -0.48px;
+  --heading-line-height: 120.00000476837158%;
+  --heading-font-style: normal;
+  --body-base-font-family: "Inter", Helvetica;
+  --body-base-font-weight: 400;
+  --body-base-font-size: 16px;
+  --body-base-letter-spacing: 0px;
+  --body-base-line-height: 139.9999976158142%;
+  --body-base-font-style: normal;
+  --body-strong-font-family: "Inter", Helvetica;
+  --body-strong-font-weight: 600;
+  --body-strong-font-size: 16px;
+  --body-strong-letter-spacing: 0px;
+  --body-strong-line-height: 139.9999976158142%;
+  --body-strong-font-style: normal;
+}
